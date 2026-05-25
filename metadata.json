@@ -1,0 +1,6 @@
+{
+  "name": "Forge Startup Builder",
+  "description": "An interactive workspace for startup founders to build lean canvases, analyze SWOT, plan roadmaps, explore interactive mindmaps, and consult an AI advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
